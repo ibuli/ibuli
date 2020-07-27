@@ -17,3 +17,11 @@ I'm Burhan. A Web Developer from Ahmedabad, India. I develop websites, landing p
 - 📫 How to reach me: Read above :P
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Sometimes I think out loud and type straight to someone and they always think I'm drunk :D
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ibuli/count.svg" />
+</p>
+<p align="center">
+  <b>Thanks For Visiting My Profile ❤️</b>
+</p>
