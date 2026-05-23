@@ -18,10 +18,10 @@ I'm Burhan. A Web Developer from Bangalore, India. I develop websites and web ap
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Sometimes I think out loud and type straight to someone and they always think I'm drunk (I don't drink, LOL!). :D
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ibuli/count.svg" />
-</p>
+</p> -->
 <p align="center">
   <b>Thanks For Visiting ❤️</b>
 </p>
