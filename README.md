@@ -42,7 +42,6 @@
 | :--- | :--- | :--- |
 | [**antigravity-profile-pilot**](https://github.com/ibuli/antigravity-profile-pilot) | Smart multi-account profile pilot & quota manager for Antigravity IDE and App. 1-click switching with real-time rate limit tracking. | `JavaScript` `Developer Tools` |
 | [**node-starter-es6**](https://github.com/ibuli/node-starter-es6) | Production-ready, modular Node.js starter boilerplate powered by modern ES6 syntax. | `Node.js` `Express` `ES6` |
-| [**launch-status-spacex**](https://github.com/ibuli/launch-status-spacex) | Real-time SpaceX mission and launch tracking dashboard. | `React` `GraphQL` `Apollo Client` |
 | [**burhanbharmal.com**](https://github.com/ibuli/burhanbharmal.com) | Clean, responsive personal portfolio website showcasing work and interactive resume. | `HTML/CSS` `JavaScript` |
 | [**burhan-resume**](https://github.com/ibuli/burhan-resume) | An interactive, terminal-based resume package runnable straight from npx/Node. | `Node.js` `CLI` `npm` |
 
